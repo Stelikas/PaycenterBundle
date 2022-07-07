@@ -23,7 +23,7 @@
   "require": {
     "php": ">=5.5.0",
     "symfony/framework-bundle": "~2.3|~3.0",
-    "guzzlehttp/guzzle": "^6.2"
+    "guzzlehttp/guzzle": "7.0.1"
   },
   "autoload": {
     "psr-0": { "Thanpa\\PaycenterBundle": "" }
