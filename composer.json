@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=5.5.0",
-    "symfony/framework-bundle": "~2.3|~3.0",
+    "symfony/framework-bundle": "4.4",
     "guzzlehttp/guzzle": "^7.0.1"
   },
   "autoload": {
